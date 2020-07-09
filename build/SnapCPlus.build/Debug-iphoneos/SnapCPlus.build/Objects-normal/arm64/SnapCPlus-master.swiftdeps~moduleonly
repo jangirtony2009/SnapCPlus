@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "d2a1425f3c70d7cb90459d4bc4b3cdbe"
+build_time: [1594274991, 739072000]
+inputs:
+  "/Users/vikas.jangir/Documents/Learn/SnapCPlus/SnapCPlus/ViewController.swift": [1594274325, 127845782]
+  "/Users/vikas.jangir/Documents/Learn/SnapCPlus/SnapCPlus/AppDelegate.swift": [1594208108, 432443966]
+  "/Users/vikas.jangir/Documents/Learn/SnapCPlus/SnapCPlus/CapturedImageViewController.swift": [1594274991, 663278209]
+  "/Users/vikas.jangir/Documents/Learn/SnapCPlus/SnapCPlus/SceneDelegate.swift": [1594208108, 447683236]
